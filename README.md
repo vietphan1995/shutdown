@@ -21,4 +21,4 @@ Shutdown tracks & reduces electric consumption when your computer is not in usin
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/shutdown-1b25e832d6ee8065a3e4f5153bcb05f2
+https://maianhcorporation.notion.site/shutdown-1b25e832d6ee8065a3e4f5153bcb05f2
